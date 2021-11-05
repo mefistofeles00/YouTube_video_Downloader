@@ -1,0 +1,8 @@
+merhaba dostlar sizlerle bugün youtube downloader yapıcaz python ile python3 ve pip3 plarak modüllerimizi indiricez tabikiside
+
+modüller
+----------
+
+pip dosyanız nereye kurulu ise pip3 install pytube veya pytube3 diuerek kurabilirsiniz
+
+şimdi scriptimizi yazmaya bşlıyalım isterseniz
